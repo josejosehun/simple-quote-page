@@ -1,4 +1,4 @@
-/* === GENERAL SETTINGS === */
+﻿/* === GENERAL SETTINGS === */
 
 * {
   box-sizing: border-box;
@@ -110,11 +110,11 @@ nav {
   transition: .3s ease-in-out .15s;
 }
 
-.button-container:active { /* At the moment it doesn't works. */
+.button-container:active { /* At the moment it doesn't work. */
   background-color: #ffffff;
 }
 
-.button-container:visited { /* At the moment it doesn't works. */
+.button-container:visited { /* At the moment it doesn't work. */
   opacity: .3;
 }
 
